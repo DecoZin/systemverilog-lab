@@ -1,0 +1,10 @@
++sv
+register.sv
+scale_mux.sv
+counter.sv
+typedefs.sv
+control.sv
+alu.sv
+mem.sv
+cpu.sv
+cpu_test.sv
